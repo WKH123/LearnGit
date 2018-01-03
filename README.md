@@ -1,2 +1,0 @@
-# leargit
-Just do it!
